@@ -5,13 +5,15 @@
 ## 制作動画
 <br>
 
-###　[自己紹介](https://youtu.be/z9N6wlzrSOw)
+### [自己紹介](https://youtu.be/z9N6wlzrSOw)
 
 
 <br>
 
 ### [自己制作](https://www.youtube.com/channel/UClepH0Jk5KxKao9eXQDITgQ/videos)
 
+神奈川県横浜市　本牧エリアの特徴的なスポットを撮影・編集した作品
+<br>
 <br>
 
 ### TEDxAoyamaGakuinU 2020
