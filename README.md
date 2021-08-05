@@ -37,4 +37,4 @@
 # ロゴ制作
 <br>
 
-[こちら]()
+### [こちら](https://github.com/Babby168/Babby168/tree/main/logo)
