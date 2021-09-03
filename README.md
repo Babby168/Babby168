@@ -12,7 +12,8 @@
 現地の大学に通いながら、独自でフィールドスタディを実施した。
 
 ### ゼミ
-OpenStreetMap・HOT Tasking Managerを活用しデジタルマッピングを実施。
+「一億総伊能化」を目的に、<br>
+OpenStreetMap・HOT Tasking Manager等を活用しデジタルマッピングを実施。
 
 ＜ゼミ内サークル＞
 
