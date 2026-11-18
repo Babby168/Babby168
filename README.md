@@ -1,10 +1,10 @@
-# Tatsumi Baba（馬場 巽 / Babby）
+# Tatsumi Baba（馬場 巽）
 
 広告映像制作会社で約3年半、テレビCMやWeb動画の制作進行を担当しました。現在はRuby on Railsを軸に、Webエンジニアへの転職活動中です。
 
 個人開発の「PieceFit」を企画・設計から公開まで一人で手がけ、公開後も運用と改善を続けています。
 
-## 🧩 PieceFit
+## PieceFit（個人開発アプリ）
 
 **BATTLE OF RUNTEQ vol.7 部門賞（技術力）受賞**
 
