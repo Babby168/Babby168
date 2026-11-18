@@ -43,7 +43,7 @@ PieceFitは、デスクワーカー向けのストレッチ習慣化アプリで
 ## 主な使用技術
 
 | 分野 | 技術 |
-| --- | — |
+| --- | --- |
 | Web開発 | Ruby / Ruby on Rails 8.1 / PostgreSQL / Hotwire（Turbo・Stimulus） |
 | UI | Tailwind CSS / daisyUI |
 | 非同期処理・画像処理 | Active Job / Solid Queue / libvips / Cloudinary |
